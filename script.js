@@ -1,10 +1,8 @@
 function calculate(){
   const i = document.getElementById('vd').value;
 
-  const t = document.getElementById
-  ('td');
-  const v = td.options[t.
-      selectedIndex].value;
+  const t = document.getElementById('td');
+  const v = td.options[t.selectedIndex].value;
 
 
   function celToFah(cel){
